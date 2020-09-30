@@ -1,4 +1,4 @@
-package com.cg.remote.MavenApp;
+package com.cg.project;
 
 /**
  * Hello world!
